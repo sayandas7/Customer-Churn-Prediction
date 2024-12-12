@@ -49,3 +49,13 @@ Although this project focuses on churn analysis for a telecom firm, the techniqu
 
 ~Identify which customer segments are most likely to churn.
 ~Guide strategies for improving customer retention.
+
+
+# Resources Requirerd
+## Software and tools
+1. Postgresql
+2. Pgadmin
+3. Python
+4. Anaconda (Jupyter Notebook)
+5. Power BI
+6. MS Excel 
